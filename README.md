@@ -3,7 +3,7 @@ Course: CS143 – Artificial Intelligence (Spring 2026)
 
 Instructor: Md Alimoor Reza, Assistant Professor of Computer Science, Drake University
 
-Due: Tuesday, February 10, 11:59 PM
+Due: Tuesday, March 10, 11:59 PM
 Total: 10 points
 
 ## AI Problem Solving with Informed (Heuristic) Search Algorithms
