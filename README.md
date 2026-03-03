@@ -55,7 +55,7 @@ Also include a text/Markdown cell that addresses the following points:
 
 5. Conclude by stating which algorithm you recommend, A* Search or Greedy Best-First Search, and justify your choice briefly.
 
-### Grading
+## Grading
 
 The assignment is worth 10 points. Partial credit (4–6 points) will be awarded if any of the required components are incomplete.
 
